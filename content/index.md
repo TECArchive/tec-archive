@@ -18,6 +18,7 @@ This site is a public, curated archive for the Token Engineering Commons (TEC).
 
 ## Start here
 
+ - [[About/Archival Intent]]
 - [[About/Archival Policy]]
 - [[About/Archive Publication Checklist]]
 - [[Sources]]
