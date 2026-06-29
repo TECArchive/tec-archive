@@ -4,23 +4,39 @@ title: TEC Archive
 
 # Token Engineering Commons — Public Archive
 
-This site is a public, curated archive for the Token Engineering Commons (TEC).
+This site is the public, curated archive of the **Token Engineering Commons (TEC)**, an open experiment in commons development and onchain coordination that ran from **2019 to 2025**.
 
-## What this archive is
+TEC operated as a research commons, a grant-making DAO, a governance laboratory, and a site of sustained economic experimentation. This archive preserves the record of what was attempted, what emerged, what failed, what endured, and what was learned — so future builders, researchers, and critics can study the experiment on its own terms.
 
-- A **browseable knowledge base** (notes, timelines, indices)
-- A set of **public source references** (Discord/Discourse/Telegram/onchain)
-- A place to publish **governance and treasury summaries**
-
-## What this archive is not (yet)
-
-- A raw, complete dump of every message ever sent (privacy/consent matters)
+> The Token Engineering Commons is retired. The record remains.
 
 ## Start here
 
- - [[About/Archival Intent]]
+- [[About/Archival Intent]] — why this archive exists and the principles behind it
+- [[Overview]] — what the TEC was, in brief
+- [[Timeline]] — the full lifecycle, 2020–2025
+- [[Sources]] — the platforms this record is drawn from
+
+## Browse the archive
+
+- [[Overview]] — mission, vision, values, and how the token system worked
+- [[Governance]] — proposals, voting mechanisms, and structural decisions
+- [[Working Groups]] — how labor, stewardship, and operations were organized
+- [[Economics and Token Design]] — the Hatch, the Augmented Bonding Curve, rewards, and treasury
+- [[Communications]] — outreach, content, and community storytelling
+- [[Research]] — token engineering research, ethics, and education initiatives
+- [[Code and Technical Artifacts]] — the smart contracts, apps, and tooling repositories
+
+## About this archive
+
+- [[About/Archival Intent]]
 - [[About/Archival Policy]]
 - [[About/Archive Publication Checklist]]
-- [[Sources]]
-- [[Timeline]]
 
+## What this archive is
+
+A browseable knowledge base — notes, timelines, and indices — together with references to the public source systems (Discord, Discourse, Telegram, onchain) and summaries of TEC's governance, economic, and technical evolution.
+
+## What this archive is not
+
+A raw, complete dump of every message ever sent. Privacy and consent matter: direct messages, private channels, and personal data are excluded, and personal names in internal working records are redacted. See the [[About/Archival Policy]] for details.
