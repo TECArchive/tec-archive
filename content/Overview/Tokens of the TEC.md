@@ -4,7 +4,7 @@ title: Tokens of the TEC
 
 # Tokens of the TEC
 
-A recurring source of confusion for newcomers was that TEC involved *several* tokens, each with a distinct role across the launch phases. This guide explains them. It is adapted from a community explainer; minor source links have been omitted and attribution redacted per the [[About/Archival Policy]].
+A recurring source of confusion for newcomers was that TEC involved *several* tokens, each with a distinct role across the launch phases. This guide explains them. It is adapted from a community explainer, and minor source links have been omitted and attribution redacted per the [[About/Archival Policy]].
 
 ## Phase 1 tokens (pre-Hatch)
 

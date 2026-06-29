@@ -4,7 +4,7 @@ title: Code & Technical Artifacts
 
 # Code & Technical Artifacts
 
-TEC produced a large body of software: smart contracts, governance and economic apps, dashboards, bots, data tooling, research code, and brand assets. The archive preserves **63 source repositories** mirrored from TEC's development organizations. This page catalogs them by theme.
+TEC produced a large body of software through smart contracts, governance and economic apps, dashboards, bots, data tooling, research code, and brand assets. The archive preserves **63 source repositories** mirrored from TEC's development organizations. This page catalogs them by theme.
 
 > These repositories are preserved as historical snapshots. They are not maintained and may depend on deprecated services. Code is included as part of the record, not as a working deployment.
 

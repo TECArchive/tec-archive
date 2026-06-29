@@ -4,7 +4,7 @@ title: Governance
 
 # Governance
 
-TEC was, above all, a governance experiment. It tried to translate governance theory into working mechanisms — and then to live with the consequences. This section indexes how TEC made decisions and how that system evolved.
+TEC was, above all, a governance experiment. It tried to translate governance theory into working mechanisms, and then to live with the consequences. This section indexes how TEC made decisions and how that system evolved.
 
 ## Mechanisms
 

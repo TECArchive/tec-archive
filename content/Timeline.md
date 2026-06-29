@@ -4,7 +4,7 @@ title: Timeline
 
 # Timeline
 
-This timeline highlights the major events and turning points across the lifecycle of the Token Engineering Commons. It is a broad guide rather than a complete thread-by-thread index — it traces the major arcs: designing a commons, launching a token economy, operating through working groups and rewards, funding token engineering public goods, migrating infrastructure, attempting sustainability, and finally sunsetting through governance.
+This timeline highlights the major events and turning points across the lifecycle of the Token Engineering Commons. It is a broad guide rather than a complete thread-by-thread index, as it traces the major arcs composed of designing a commons, launching a token economy, operating through working groups and rewards, funding token engineering public goods, migrating infrastructure, attempting sustainability, and finally sunsetting through governance.
 
 A far more detailed, chronological account drawn from the governance forum (covering individual proposals and parameter debates from 2020 onward) exists in the source material and will be progressively published under [[Sources/Discourse]].
 
@@ -18,27 +18,27 @@ A far more detailed, chronological account drawn from the governance forum (cove
 
 **November 2020 — Two-stage launch strategy.** TEC adopted a staged launch: first the Hatch DAO and Dandelion-style governance, with the Augmented Bonding Curve and Conviction Voting added later through governance. A foundational decision shaping legal risk, technical sequencing, onboarding, and expectations.
 
-**November 2020–2021 — Praise, Impact Hours, and contribution rewards take shape.** TEC developed a core cultural system: recognizing unpaid and underpaid contribution through Praise, translating recognized work into Impact Hours, and connecting that record to token rewards. This became central to TEC's culture, compensation logic, and contributor identity.
+**November 2020–2021 — Praise, Impact Hours, and contribution rewards take shape.** TEC developed a core cultural system that  recognized unpaid and underpaid contribution through Praise, translating recognized work into Impact Hours, and connecting that record to token rewards. This became central to TEC's culture, compensation logic, and contributor identity.
 
 **December 2020 — Dandelion and TAO Voting parameter discussions.** TEC designed the hard governance layer for upgrades, permissions, parameter changes, and high-stakes decisions, clarifying the relationship between everyday funding decisions and deeper constitutional actions.
 
-**December 2020–2021 — Working groups form** around governance, communications, legal, outreach, Gravity, and transparency. TEC became an operating organization, not just a governance experiment.
+**December 2020–2021 — Working groups formed** around governance, communications, legal, outreach, Gravity, and transparency. TEC became an operating organization through these working groups.
 
 ## 2021 — Hatch preparation, launch readiness, and cultural governance
 
 **Early 2021 — Hatch implementation, test hatches, parameter parties, and launch rehearsals.** TEC moved from abstract design into practical readiness through simulations, demos, user testing, and community education.
 
-**March–May 2021 — Mission, vision, values, and cultural governance become explicit.** TEC clarified that its economy was meant to support token engineering public goods, not simply launch a token, and refined its norms and expectations for participation.
+**March–May 2021 — Mission, vision, values, and cultural governance become explicit.** TEC clarified that its economy was meant to support token engineering public goods, and not to simply launch a token, and refined its norms and expectations for participation.
 
-**June 2021 — Hatch live data and rehearsal process.** The Hatch became real operational work — dashboards, rehearsals, data tracking, and coordination around launch mechanics — marking the transition from preparation to execution.
+**June 2021 — Hatch live data and rehearsal process.** The Hatch became real operational work where dashboards, rehearsals, data tracking, and coordination around launch mechanics became formalized, marking the transition from preparation to execution.
 
 **August 2021 — TEC Community Covenant.** TEC codified its social expectations, values, and shared culture as commons infrastructure. The Covenant became an important soft-governance artifact.
 
-**Late 2021 — Commons Upgrade parameter voting.** The community selected the final parameters for the Commons Upgrade, preparing to move from the Hatch DAO into the full TEC economic system — one of the most important collective configuration decisions in TEC's history.
+**Late 2021 — Commons Upgrade parameter voting.** The community selected the final parameters for the Commons Upgrade, preparing to move from the Hatch DAO into the full TEC economic system, which served as one of the most important collective configuration decisions in TEC's history.
 
 ## 2022 — Commons Upgrade, live token economy, rewards, and public goods funding
 
-**January 2022 — Commons Upgrade goes live.** TEC moved into its full governance and economic form with the bonding curve and Conviction Voting infrastructure — the transition from Hatch DAO into the full Commons.
+**January 2022 — Commons Upgrade goes live.** TEC moved into its full governance and economic form with the augmented bonding curve and Conviction Voting infrastructure, marking the transition from Hatch DAO into the full Commons.
 
 **January 2022 — Bonding Curve opens.** The token economy became live, allowing minting and burning through the Augmented Bonding Curve, starting the open economic phase.
 
@@ -70,11 +70,11 @@ A far more detailed, chronological account drawn from the governance forum (cove
 
 **2023–2024 — TE Grants rounds and results**, making the grants program one of TEC's clearest public-facing value flows.
 
-**September–December 2023 — Community advice process for Optimism migration.** A major infrastructure transition handled as a community governance process, not merely a technical move.
+**September–December 2023 — Community advice process for Optimism migration.** A major infrastructure transition handled as a community governance process.
 
 **November–December 2023 — TEC Guardians introduced and nominated**, a dedicated guardian structure for the Optimism-era DAO.
 
-**December 2023 — Vote to migrate TEC to Optimism.** Token holders formally approved the migration — one of the most consequential governance decisions in TEC's history.
+**December 2023 — Vote to migrate TEC to Optimism.** Token holders formally approved the migration, which became one of the most consequential governance decisions in TEC's history.
 
 **December 2023 — Migration execution.** Simulation, formal TAO vote, dress rehearsal, and OP Mainnet launch completed the move from Gnosis Chain to Optimism.
 

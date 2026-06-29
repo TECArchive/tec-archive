@@ -4,7 +4,7 @@ title: Research
 
 # Research
 
-Beyond running itself, TEC invested in *research* — both into its own mechanisms and into the broader discipline of token engineering. This reflected its mission to advance robust, ethical design of tokenized infrastructure. This section indexes the research record.
+Beyond running itself, TEC invested in *research*, both into its own mechanisms and into the broader discipline of token engineering. This reflected its mission to advance robust, ethical design of tokenized infrastructure. This section indexes the research record.
 
 ## Research initiatives
 
@@ -20,6 +20,6 @@ The technical archive also contains research-grade datasets and studies, includi
 
 ## Externally funded research and public goods
 
-As a public goods funder, TEC supported external token-engineering research and infrastructure — including NumFOCUS, cadCAD, Proof of Competence, and educational collaborations with the Token Engineering Academy. See the [[Timeline]] for when these occurred.
+As a public goods funder, TEC supported external token-engineering research and infrastructure, which included NumFOCUS, cadCAD, Proof of Competence, and educational collaborations with the Token Engineering Academy. See the [[Timeline]] for when these occurred.
 
 > Research reports and methods documents are being progressively published here in redacted form.

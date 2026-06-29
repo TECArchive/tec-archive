@@ -82,4 +82,4 @@ TEC emerged during a formative period in the evolution of decentralized systems,
 
 This archive exists so that those experiments do not disappear with the platforms, tokens, or organizations that carried them. Its purpose is not to settle debates, but to ensure that future builders, researchers, and critics can encounter the record directly and draw their own conclusions.
 
-The Token Engineering Commons is retired. The record remains.
+The Token Engineering Commons is retired.

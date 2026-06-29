@@ -4,7 +4,7 @@ title: Working Groups
 
 # Working Groups
 
-For much of its operating life, TEC organized labor through **working groups** — semi-autonomous teams with their own manifestos, agendas, budgets, and rhythms. They defined how stewardship, communications, legal strategy, conflict transformation, community operations, and technical work actually got done. In late 2022 TEC restructured away from this model toward a leaner **Coordination Team**.
+For much of its operating life, TEC organized labor through **working groups**, which were semi-autonomous teams with their own manifestos, agendas, budgets, and rhythms. They defined how stewardship, communications, legal strategy, conflict transformation, community operations, and technical work actually got done. In late 2022 TEC restructured away from this model toward a leaner **Coordination Team**.
 
 This section indexes the major working groups documented in the source material.
 

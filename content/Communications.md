@@ -4,7 +4,7 @@ title: Communications
 
 # Communications
 
-Communications was a sustained, organized effort at TEC — responsible for explaining a genuinely complex project to newcomers, coordinating campaigns around milestones like the Hatch, and maintaining TEC's public voice. The work ran largely through the Comms working group and the "Commons Swarm." This section indexes the communications record.
+Communications was a sustained, organized effort in the TEC that was responsible for explaining a genuinely complex project to newcomers, coordinating campaigns around milestones like the Hatch, and maintaining TEC's public voice. The work ran largely through the Comms working group and the "Commons Swarm." This section indexes the communications record.
 
 ## What the comms function did
 

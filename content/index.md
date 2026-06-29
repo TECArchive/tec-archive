@@ -6,9 +6,9 @@ title: TEC Archive
 
 This site is the public, curated archive of the **Token Engineering Commons (TEC)**, an open experiment in commons development and onchain coordination that ran from **2019 to 2025**.
 
-TEC operated as a research commons, a grant-making DAO, a governance laboratory, and a site of sustained economic experimentation. This archive preserves the record of what was attempted, what emerged, what failed, what endured, and what was learned — so future builders, researchers, and critics can study the experiment on its own terms.
+TEC operated as a research commons, a grant-making DAO, a governance laboratory, and a site of sustained economic experimentation. This archive preserves the record of what was attempted, what emerged, what failed, what endured, and what was learned, so future builders, researchers, and critics can study the experiment on its own terms.
 
-> The Token Engineering Commons is retired. The record remains.
+> The Token Engineering Commons is retired.
 
 ## Start here
 
@@ -27,6 +27,15 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 - [[Research]] — token engineering research, ethics, and education initiatives
 - [[Code and Technical Artifacts]] — the smart contracts, apps, and tooling repositories
 
+## Key concepts
+
+Deep dives on the mechanisms that defined the TEC:
+
+- [[Ostrom and the Cultural Build]] — building on Elinor Ostrom's commons principles
+- [[How the Hatch Worked]] — the two-phase community launch
+- [[How the Augmented Bonding Curve Worked]] — the continuous-funding economic engine
+- [[How Praise Worked]] — the culture of gratitude that became Impact Hours
+
 ## About this archive
 
 - [[About/Archival Intent]]
@@ -35,8 +44,8 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 
 ## What this archive is
 
-A browseable knowledge base — notes, timelines, and indices — together with references to the public source systems (Discord, Discourse, Telegram, onchain) and summaries of TEC's governance, economic, and technical evolution.
+A browseable knowledge base with notes, timelines, and indices are stitched together with references to the public source systems (Discord, Discourse, Telegram, onchain) and summaries of TEC's governance, economic, and technical evolution.
 
 ## What this archive is not
 
-A raw, complete dump of every message ever sent. Privacy and consent matter: direct messages, private channels, and personal data are excluded, and personal names in internal working records are redacted. See the [[About/Archival Policy]] for details.
+A raw, complete dump of every message ever sent. Privacy and consent matter, so direct messages, private channels, and personal data are excluded, and personal names in internal working records are redacted. See the [[About/Archival Policy]] for details.
