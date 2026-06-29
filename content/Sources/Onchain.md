@@ -35,15 +35,15 @@ The TEC Gardens DAO was the Conviction Voting "garden" where funding proposals w
 | Contract | Address |
 | --- | --- |
 | TEC token (Optimism) | [`0x8fc7c1109c08904160d6ae36482b79814d45eb78`](https://optimistic.etherscan.io/token/0x8fc7c1109c08904160d6ae36482b79814d45eb78) |
-| Redemption / claim contract (redemption dApp) | [`0x55456B5a78b1EA17771caf0f99C7fEd7292670A5`](https://optimistic.etherscan.io/address/0x55456B5a78b1EA17771caf0f99C7fEd7292670A5) |
-| TEC Claim (shutdown deployment) | [`0x873f0EFeA1a72B2a5ff6ef755fF5Cbf80A324D43`](https://optimistic.etherscan.io/address/0x873f0EFeA1a72B2a5ff6ef755fF5Cbf80A324D43) |
+| Redemption / claim contract (operative — carries the claim activity) | [`0x55456B5a78b1EA17771caf0f99C7fEd7292670A5`](https://optimistic.etherscan.io/address/0x55456B5a78b1EA17771caf0f99C7fEd7292670A5) |
+| TEC Claim (shutdown-repo deployment — no on-chain activity; unused) | [`0x873f0EFeA1a72B2a5ff6ef755fF5Cbf80A324D43`](https://optimistic.etherscan.io/address/0x873f0EFeA1a72B2a5ff6ef755fF5Cbf80A324D43) |
 | TEC Claim Factory | [`0xFEBBaABB9Afce6a61828893E52acf8BEF4b7D8e3`](https://optimistic.etherscan.io/address/0xFEBBaABB9Afce6a61828893E52acf8BEF4b7D8e3) |
 | TEC Claim Implementation | [`0x4C32c8517C1D61ff395F4E5d7aFf985fa49E0Ce6`](https://optimistic.etherscan.io/address/0x4C32c8517C1D61ff395F4E5d7aFf985fa49E0Ce6) |
 | Controlling owner (Safe) | [`0x7eead728a790bb1801137349f7cc1e9dcd163b71`](https://optimistic.etherscan.io/address/0x7eead728a790bb1801137349f7cc1e9dcd163b71) |
 | Redemption asset — DAI | [`0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1`](https://optimistic.etherscan.io/token/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1) |
 | Redemption asset — rETH | [`0x9Bcef72be871e61ED4fBbc7630889beE758eb81D`](https://optimistic.etherscan.io/token/0x9Bcef72be871e61ED4fBbc7630889beE758eb81D) |
 
-*Note: two redemption addresses appear in the source repos — the address referenced by the live redemption dApp and the claim module deployed by the shutdown repo. Both are listed; verify the operative one on Optimistic Etherscan.*
+*Note: two redemption addresses appear in the source repos. On-chain verification (Optimistic Etherscan) shows the **dApp contract `0x5545…` carries the actual claim activity**, while the `TECClaim` module deployed via the shutdown repo (`0x873f…`) has no transactions and appears to be an unused deployment.*
 
 ## Token redemption and sunset
 
