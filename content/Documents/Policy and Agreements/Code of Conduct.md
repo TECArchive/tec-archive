@@ -320,7 +320,7 @@ Is this action or outcome required?
 Is this action or outcome forbidden?
 It is forbidden that moderators delete or modify posts that are not from their authorship without consulting the post owner.
 
-* # Telegram Code of Conduct [[REDACTED]]
+* # Telegram Code of Conduct [REDACTED]
 
 * [https://docs.google.com/document/d/1JxP8Pgm62ANZCbAQqZiVOYxc-OTQc0o4AGzNBgI5Q_M/edit?usp=sharing](https://docs.google.com/document/d/1JxP8Pgm62ANZCbAQqZiVOYxc-OTQc0o4AGzNBgI5Q_M/edit?usp=sharing)
 

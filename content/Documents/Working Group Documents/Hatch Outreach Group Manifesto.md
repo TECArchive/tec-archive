@@ -11,7 +11,7 @@ title: Hatch Outreach Group Manifesto
 *Next AMA: Wednesday 4PM CET / 7AM PST.*
 *You can find us on Discord Channel: [Hatch Outreach.](https://discord.gg/5udK7DM3)*
 *Doc owner/OWG Community Stewards : [REDACTED] [REDACTED] / [REDACTED] [REDACTED]*
-*TG handlers: [[REDACTED]](http://t.me/cranders71) and [[REDACTED].](http://t.me/vegayp)*
+*TG handlers: [REDACTED]([REDACTED]) and [[REDACTED].]([REDACTED])*
 
 First of all, welcome to the Hatch Outreach Group Manifesto. The next thing you need to know, is that this isn’t a document to Welcome and give you guidelines about the TEC, this is a document focused on the Onboarding of Hatchers and Proposals, so if you are looking for all the information related to the TEC or/if you have questions, doubts, or just curiosity, please head here: [Welcome to the TEC.](https://forum.tecommons.org/c/welcome-to-the-tec/12)
 
@@ -90,7 +90,7 @@ Discord VoiceHatcher Outreach-TEC: [https://discord.gg/TuKF5DyMnE](https://disco
 
 * What is everyone’s availability? *How much time they can commit per week and what are their time zones - Any personal factors to consider through the end of this working group (moves, family, health etc.)?*
 
-	[[REDACTED]](mailto:[REDACTED]) ([REDACTED]) - Community Steward: 5-10 hrs/wk, PST
+	[REDACTED](mailto:[REDACTED]) ([REDACTED]) - Community Steward: 5-10 hrs/wk, PST
 	[REDACTED] ([REDACTED]) - Community Steward: 10-20  hrs/wk, CET
 
 ## Resources
