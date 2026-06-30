@@ -21,11 +21,11 @@ See [[Overview/Mission Vision and Values]] for the full statement.
 
 ## Foundations: the Cultural Build
 
-Before any token launched, the TEC invested in a **Cultural Build** — the norms, working groups, and shared agreements meant to hold the organization together once money was involved. It was a deliberate effort to iterate on Elinor Ostrom's Nobel-winning work on governing the commons, embedding her eight design principles into both the technical system and the culture. See [[Ostrom and the Cultural Build]].
+Before any token launched, the TEC invested in a **Cultural Build**, which established the norms, working groups, and shared agreements meant to hold the organization together once money was involved. It was a deliberate effort to iterate on Elinor Ostrom's Nobel-winning work on governing the commons, embedding her eight design principles into both the technical system and the culture. See [[Ostrom and the Cultural Build]].
 
 ## How the economy worked, in brief
 
-TEC launched through the **Hatch** — a fundraising and governance-formation event which then upgraded into a full economy built on an **Augmented Bonding Curve** feeding a common pool, with **Conviction Voting** allocating funds to proposals. Contribution was recognized through **Praise** and **Impact Hours**, which connected unpaid and underpaid work to the token economy.
+TEC launched through a process known as the **Hatch**.  It was a fundraising and governance-formation event which then upgraded into a full economy built on an **Augmented Bonding Curve** feeding a common pool, with **Conviction Voting** allocating funds to proposals. Contribution was recognized through **Praise** and **Impact Hours**, which connected unpaid and underpaid work to the token economy.
 
 The system involved several distinct tokens at different phases. See [[Overview/Tokens of the TEC]] for a guide.
 
