@@ -26,6 +26,7 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 - [[Communications]] — outreach, content, and community storytelling
 - [[Research]] — token engineering research, ethics, and education initiatives
 - [[Code and Technical Artifacts]] — the smart contracts, apps, and tooling repositories
+- [[Documents]] — original TEC source documents, published verbatim
 
 ## Key concepts
 
