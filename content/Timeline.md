@@ -6,7 +6,7 @@ title: Timeline
 
 This timeline highlights the major events and turning points across the lifecycle of the Token Engineering Commons. It is a broad guide rather than a complete thread-by-thread index, as it traces the major arcs composed of designing a commons, launching a token economy, operating through working groups and rewards, funding token engineering public goods, migrating infrastructure, attempting sustainability, and finally sunsetting through governance.
 
-A far more detailed, chronological account drawn from the governance forum (covering individual proposals and parameter debates from 2020 onward) exists in the source material and will be progressively published under [[Sources/Discourse]].
+A far more detailed, thread-by-thread chronicle drawn from the governance forum (covering individual proposals and parameter debates from 2020 onward) is published as [[Forum Timeline (Detailed)]]. See also [[Sources/Discourse]].
 
 ---
 
