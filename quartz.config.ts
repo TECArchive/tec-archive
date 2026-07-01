@@ -88,8 +88,10 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // CustomOgImages disabled: it fetches Google Fonts at build time to render
+      // social-preview images, which intermittently fails the GitHub Actions build.
+      // Re-enable if you want share-preview images and the runner has reliable font access.
+      // Plugin.CustomOgImages(),
     ],
   },
 }
