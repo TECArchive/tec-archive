@@ -18,17 +18,16 @@ The rules, norms, and agreements that governed participation.
 
 ## Working Group Documents
 
-The manifestos and retirement records of the TEC's working groups.
+Each working group has its own folder holding its manifesto and any retirement record.
 
-- [[Gravity Working Group Manifesto]] *(redacted)* — conflict transformation
-- [[Community Stewards Working Group Manifesto]] *(redacted)* — community stewardship
-- [[Tech Spec Working Group Manifesto]] *(redacted)* — technical specification
-- [[Legal Working Group Manifesto]] — legal strategy and scope
-- [[Rewards Working Group Manifesto]] — the rewards system
-- [[Hatch Outreach Group Manifesto]] *(redacted)* — recruiting and supporting hatchers
-- [[Communitas Working Group - Retirement]] — Communitas WG retirement record
-- [[Stewards Working Group - Retirement]] *(redacted)* — Stewards WG retirement record
-- [[Transparency Working Group - Retirement]] *(redacted)* — Transparency WG retirement record
+- **Gravity Working Group** — [[Gravity Working Group Manifesto]] *(redacted)* — conflict transformation
+- **Community Stewards Working Group** — [[Community Stewards Working Group Manifesto]] *(redacted)*; [[Stewards Working Group - Retirement]] *(redacted)* — community stewardship
+- **Tech Spec Working Group** — [[Tech Spec Working Group Manifesto]] *(redacted)* — technical specification
+- **Legal Working Group** — [[Legal Working Group Manifesto]] — legal strategy and scope
+- **Rewards Working Group** — [[Rewards Working Group Manifesto]] — the rewards system
+- **Hatch Outreach Working Group** — [[Hatch Outreach Group Manifesto]] *(redacted)* — recruiting and supporting hatchers
+- **Communitas Working Group** — [[Communitas Working Group - Retirement]] — retirement record
+- **Transparency Working Group** — [[Transparency Working Group - Retirement]] *(redacted)* — retirement record
 
 ## Process & Operations
 
