@@ -1,6 +1,36 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Custom sidebar order for the Overview section (the rest stays alphabetical).
+// NOTE: this function is serialized to the client, so it must be self-contained.
+const overviewSortFn = (a: any, b: any) => {
+  const order = [
+    "overview/mission-vision-and-values",
+    "overview/timeline",
+    "overview/history",
+    "overview/economics-and-token-design",
+    "overview/the-hatch",
+    "overview/augmented-bonding-curve",
+    "overview/ostrom-and-the-cultural-build",
+    "overview/governance",
+    "overview/working-groups",
+    "overview/praise",
+    "overview/code-and-technical-artifacts",
+    "overview/tokens-of-the-tec",
+    "overview/research",
+  ]
+  const ia = order.indexOf((a.slug || "").toLowerCase())
+  const ib = order.indexOf((b.slug || "").toLowerCase())
+  if (ia !== -1 && ib !== -1) return ia - ib
+  if (ia !== -1) return -1
+  if (ib !== -1) return 1
+  // default: folders before files, then alphabetical (numeric-aware)
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+  }
+  return a.isFolder ? -1 : 1
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -38,7 +68,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: overviewSortFn }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +92,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: overviewSortFn }),
   ],
   right: [],
 }
