@@ -36,6 +36,6 @@ See also the conflict-transformation system under [[Working Groups]] (Gravity).
 ## Foundational documents
 
 - [[Overview/Mission Vision and Values]]
-- [[About/Archival Intent]] — the formal record of TEC's retirement
+- [[Archival Intent]] — the formal record of TEC's retirement
 
 > Full proposal records and meeting notes are being progressively published here in redacted form. The chronological account is in the [[Timeline]]; primary deliberation lives on [[Sources/Discourse]].

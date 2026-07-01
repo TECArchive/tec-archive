@@ -19,4 +19,4 @@ Public broadcast channels are the priority for reference. Informal group chat is
 
 ## Scope and privacy
 
-Out of scope: private groups, direct messages, and personal data. Personal names are redacted per the [[About/Archival Policy]]. Channel/group identifiers and export method will be recorded with the dataset exports.
+Out of scope: private groups, direct messages, and personal data. Personal names are redacted per the [[Archival Policy]]. Channel/group identifiers and export method will be recorded with the dataset exports.

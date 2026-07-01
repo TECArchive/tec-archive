@@ -22,4 +22,4 @@ Governance-relevant and public channels are in scope for summarization and refer
 
 ## Scope and privacy
 
-Out of scope: direct messages, private/role-gated channels, and personal data. Where Discord content is summarized, personal names are redacted per the [[About/Archival Policy]]. A server and channel allowlist will be recorded with the dataset exports.
+Out of scope: direct messages, private/role-gated channels, and personal data. Where Discord content is summarized, personal names are redacted per the [[Archival Policy]]. A server and channel allowlist will be recorded with the dataset exports.

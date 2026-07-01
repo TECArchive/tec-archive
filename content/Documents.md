@@ -4,7 +4,7 @@ title: Primary Documents
 
 # Primary Documents
 
-This section holds **original TEC source documents**, preserved and published verbatim (export formatting cleaned; content unchanged) and organized by area. Documents marked *(redacted)* have had personal names, handles, and emails replaced with `[REDACTED]` per the [[About/Archival Policy]]; all others were already free of personal names.
+This section holds **original TEC source documents**, preserved and published verbatim (export formatting cleaned; content unchanged) and organized by area. Documents marked *(redacted)* have had personal names, handles, and emails replaced with `[REDACTED]` per the [[Archival Policy]]; all others were already free of personal names.
 
 ## Policy & Agreements
 
@@ -48,4 +48,4 @@ How the organization actually ran day to day.
 
 ---
 
-*More source documents (additional agendas, research, and working notes) remain in the archive and may be published over time. The bulky raw meeting logs are referenced from their working-group sections rather than reproduced here. See [[About/Archival Policy]] for how names and privacy are handled.*
+*More source documents (additional agendas, research, and working notes) remain in the archive and may be published over time. The bulky raw meeting logs are referenced from their working-group sections rather than reproduced here. See [[Archival Policy]] for how names and privacy are handled.*

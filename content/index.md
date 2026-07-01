@@ -12,7 +12,7 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 
 ## Start here
 
-- [[About/Archival Intent]] — why this archive exists and the principles behind it
+- [[Archival Intent]] — why this archive exists and the principles behind it
 - [[Overview]] — what the TEC was, in brief
 - [[Timeline]] — the full lifecycle, 2020–2025
 - [[Sources]] — the platforms this record is drawn from
@@ -39,9 +39,9 @@ Deep dives on the mechanisms that defined the TEC:
 
 ## About this archive
 
-- [[About/Archival Intent]]
-- [[About/Archival Policy]]
-- [[About/Archive Publication Checklist]]
+- [[Archival Intent]]
+- [[Archival Policy]]
+- [[Archive Publication Checklist]]
 
 ## What this archive is
 
@@ -49,4 +49,4 @@ A browseable knowledge base with notes, timelines, and indices are stitched toge
 
 ## What this archive is not
 
-A raw, complete dump of every message ever sent. Privacy and consent matter, so direct messages, private channels, and personal data are excluded, and personal names in internal working records are redacted. See the [[About/Archival Policy]] for details.
+A raw, complete dump of every message ever sent. Privacy and consent matter, so direct messages, private channels, and personal data are excluded, and personal names in internal working records are redacted. See the [[Archival Policy]] for details.

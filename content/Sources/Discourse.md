@@ -21,4 +21,4 @@ The detailed forum timeline in the source material reconstructs threads chronolo
 
 ## Scope and privacy
 
-In scope: public governance threads, announcements, proposals, and parameter discussions. Out of scope: any private messages or moderation-only areas. Forum handles that were already public may appear in primary references; personal names imported from internal documents are redacted per the [[About/Archival Policy]].
+In scope: public governance threads, announcements, proposals, and parameter discussions. Out of scope: any private messages or moderation-only areas. Forum handles that were already public may appear in primary references; personal names imported from internal documents are redacted per the [[Archival Policy]].

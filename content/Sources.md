@@ -13,6 +13,6 @@ The TEC operated in public, across several platforms, each serving a different r
 
 ## How to read the sources
 
-Wherever possible, narrative summaries in this archive reference back to primary material in these systems. Personal names in internal working records are redacted; public, onchain, and pseudonymous identifiers (wallet addresses, forum handles already public) are treated according to the [[About/Archival Policy]].
+Wherever possible, narrative summaries in this archive reference back to primary material in these systems. Personal names in internal working records are redacted; public, onchain, and pseudonymous identifiers (wallet addresses, forum handles already public) are treated according to the [[Archival Policy]].
 
 > Status: source exports are in progress. The descriptions below establish scope and provenance; dataset links will be added as exports are finalized in the archive data repository.
