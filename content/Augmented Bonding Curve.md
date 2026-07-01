@@ -1,10 +1,10 @@
 ---
-title: How the Augmented Bonding Curve Worked
+title: Augmented Bonding Curve
 ---
 
-# How the Augmented Bonding Curve Worked
+# Augmented Bonding Curve
 
-The Augmented Bonding Curve (ABC) was the economic engine of the Token Engineering Commons. It was the mechanism that issued the TEC token, set its price, and funded the commons *continuously* rather than relying on a single one-time raise of funding. It went live with the Commons Upgrade in January 2022 (see [[How the Hatch Worked]]).
+The Augmented Bonding Curve (ABC) was the economic engine of the Token Engineering Commons. It was the mechanism that issued the TEC token, set its price, and funded the commons *continuously* rather than relying on a single one-time raise of funding. It went live with the Commons Upgrade in January 2022 (see [[The Hatch]]).
 
 This page explains how it worked, starting from the underlying primitive.
 
@@ -47,4 +47,4 @@ The ABC, its parameters, and its transactions are public and verifiable onchain.
 
 ---
 
-*Related:* [[Economics and Token Design]] · [[How the Hatch Worked]] · [[Governance]] · [[Research]] · [[Sources/Onchain]]
+*Related:* [[Economics and Token Design]] · [[The Hatch]] · [[Governance]] · [[Research]] · [[Sources/Onchain]]

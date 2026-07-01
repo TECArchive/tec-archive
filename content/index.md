@@ -34,9 +34,9 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 Deep dives on the mechanisms that defined the TEC:
 
 - [[Ostrom and the Cultural Build]] — building on Elinor Ostrom's commons principles
-- [[How the Hatch Worked]] — the two-phase community launch
-- [[How the Augmented Bonding Curve Worked]] — the continuous-funding economic engine
-- [[How Praise Worked]] — the culture of gratitude that became Impact Hours
+- [[The Hatch]] — the two-phase community launch
+- [[Augmented Bonding Curve]] — the continuous-funding economic engine
+- [[Praise]] — the culture of gratitude that became Impact Hours
 
 ## About this archive
 

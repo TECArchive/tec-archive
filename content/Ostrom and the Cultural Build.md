@@ -38,6 +38,6 @@ The Cultural Build is the reason the TEC's later mechanisms had legitimacy. By t
 
 ---
 
-*Related:* [[Overview]] · [[How the Hatch Worked]] · [[Working Groups]] · [[Governance]]
+*Related:* [[Overview]] · [[The Hatch]] · [[Working Groups]] · [[Governance]]
 
 *Primary source: the TEC Handbook, "The Cultural Build."*

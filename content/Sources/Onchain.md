@@ -52,7 +52,7 @@ At sunset, remaining treasury value was returned to `$TEC` holders through a **t
 ## What lived onchain
 
 - **The Hatch DAO** — the initial fundraising and governance-formation event (Impact Hours, Hatch tokens, cultural tribute).
-- **The Augmented Bonding Curve (ABC)** — minting and burning of the TEC token against a reserve; the heart of the token economy. See [[How the Augmented Bonding Curve Worked]].
+- **The Augmented Bonding Curve (ABC)** — minting and burning of the TEC token against a reserve; the heart of the token economy. See [[Augmented Bonding Curve]].
 - **Conviction Voting / TAO Voting / Dandelion Voting** — the funding and constitutional governance mechanisms.
 - **Treasury** — the Common Pool of funds, later diversified, and ultimately wound down.
 - **Token sunset** — the contracts and transactions that closed the token economy and handled redemptions.

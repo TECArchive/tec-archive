@@ -1,12 +1,12 @@
 ---
-title: How Praise Worked
+title: Praise
 ---
 
-# How Praise Worked
+# Praise
 
 Praise was the Token Engineering Commons' system for recognizing contribution.  It was a "culture of gratitude" that turned everyday acknowledgment into a measurable, and eventually economic, record of who had helped build the commons. It sat at the heart of the Cultural Build and connected directly to the token economy.
 
-For how Praise fed into ownership, see [[Economics and Token Design#praise-impact-hours-and-rewards|Economics & Token Design]] and [[How the Hatch Worked]].
+For how Praise fed into ownership, see [[Economics and Token Design#praise-impact-hours-and-rewards|Economics & Token Design]] and [[The Hatch]].
 
 ## Origins
 
@@ -41,7 +41,7 @@ Quantification was kept deliberately **manual**, because turning qualitative gra
 
 ## From Impact Hours to tokens
 
-Impact Hours were the bridge from culture to economy. The total Impact Hours a contributor accumulated would convert into **TEC tokens** at the Hatch, provided the minimum Hatch goal was reached, which is how people who had worked for the commons before it had any money became token-holding members of it. See [[How the Hatch Worked]] and [[Overview/Tokens of the TEC]].
+Impact Hours were the bridge from culture to economy. The total Impact Hours a contributor accumulated would convert into **TEC tokens** at the Hatch, provided the minimum Hatch goal was reached, which is how people who had worked for the commons before it had any money became token-holding members of it. See [[The Hatch]] and [[Overview/Tokens of the TEC]].
 
 ## How Praise evolved
 
@@ -49,4 +49,4 @@ After launch, Praise matured from a cultural practice into an ongoing operationa
 
 ---
 
-*Related:* [[Economics and Token Design]] · [[How the Hatch Worked]] · [[Ostrom and the Cultural Build]] · [[Overview/Tokens of the TEC]]
+*Related:* [[Economics and Token Design]] · [[The Hatch]] · [[Ostrom and the Cultural Build]] · [[Overview/Tokens of the TEC]]

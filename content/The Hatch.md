@@ -1,8 +1,8 @@
 ---
-title: How the Hatch Worked
+title: The Hatch
 ---
 
-# How the Hatch Worked
+# The Hatch
 
 The Hatch was the Token Engineering Commons' launch event — the mechanism that simultaneously raised the commons' initial capital and formed its founding community. It was deliberately designed as a **two-phase process**, governed by parameters the community chose for itself ("your economy, your choice"). This page explains the mechanics.
 
@@ -21,7 +21,7 @@ On launch, the Hatch opened for a limited time to receive contributions in **wxD
   - A **reserve vault** holding wxDai that backed the token — redeemable by burning Hatch tokens for a proportionate amount of wxDai.
   - A **funding pool vault** holding a non-redeemable portion of the raise, usable only by a DAO vote to further the TEC's mission. The size of this portion was set by the **Hatch Tribute** parameter.
 
-**Token minting.** Contributors received **TECH (Hatch) tokens** in proportion to their share of total wxDai contributed. Of the freshly minted tokens, a percentage went to the people who had already built the TEC and its culture, allocated according to their **Impact Hours** (earned through [[How Praise Worked|Praise]]). This is what gave builders — not just funders — a real stake from day one.
+**Token minting.** Contributors received **TECH (Hatch) tokens** in proportion to their share of total wxDai contributed. Of the freshly minted tokens, a percentage went to the people who had already built the TEC and its culture, allocated according to their **Impact Hours** (earned through [[Praise|Praise]]). This is what gave builders — not just funders — a real stake from day one.
 
 ## The three voting events
 
@@ -44,7 +44,7 @@ The second phase upgraded the Hatch DAO into the full TEC DAO. Hatch contributor
 - **Voting yes** (and the upgrade passing) moved all members, tokens, and funds into the final TEC DAO.
 - **Voting no, or not voting,** gave a contributor the option to **exit** the Hatch DAO before it upgraded — burning their tokens in exchange for an equivalent value from the reserve vault. The portion that had gone to the funding pool and to community contributors via Impact Hours was not reimbursed.
 
-When the upgrade completed, the **Augmented Bonding Curve**, **Conviction Voting**, and **Disputable Voting** went live — the full economic and governance system of the Commons. See [[How the Augmented Bonding Curve Worked]].
+When the upgrade completed, the **Augmented Bonding Curve**, **Conviction Voting**, and **Disputable Voting** went live — the full economic and governance system of the Commons. See [[Augmented Bonding Curve]].
 
 ## In short
 
@@ -52,4 +52,4 @@ The Hatch turned a fundraising event into an act of community formation: it set 
 
 ---
 
-*Related:* [[Economics and Token Design]] · [[How the Augmented Bonding Curve Worked]] · [[How Praise Worked]] · [[Overview/Tokens of the TEC]] · [[Sources/Onchain]]
+*Related:* [[Economics and Token Design]] · [[Augmented Bonding Curve]] · [[Praise]] · [[Overview/Tokens of the TEC]] · [[Sources/Onchain]]

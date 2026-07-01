@@ -22,7 +22,7 @@ This mattered for several reasons.
 
 In practice, the Hatch was prepared through extensive parameter design (Hatch goal, period, tribute, vesting, the Impact Hour rate, and funding-pool assumptions), test hatches, "parameter parties," and live rehearsals with dashboards and data tracking. By the time it went live, the community had walked through the mechanics many times. The Hatch produced the Hatch DAO, the temporary governance body that would later vote on the Commons Upgrade.
 
-→ For the step-by-step mechanics — the two phases, the vaults, the votes, and the parameters — see [[How the Hatch Worked]].
+→ For the step-by-step mechanics — the two phases, the vaults, the votes, and the parameters — see [[The Hatch]].
 
 ## Collaborative Economics
 
@@ -42,7 +42,7 @@ After the **Commons Upgrade** in January 2022, the TEC token moved onto an Augme
 
 The ABC mattered because it tried to make funding *continuous and self-sustaining* rather than a one-time raise. Instead of the treasury only ever shrinking as it funded work, the curve created an ongoing relationship between the token's market, the reserve, and the funding pool. The TEC took its own curve seriously as an object of study, preserving models and simulations (including "what-if" matrices and proposals stress-tested with large reserves), and later convening a Bonding Curve Research Group to document the tradeoffs and lessons of running one in the real world.
 
-→ For how the curve and the common pool actually worked, see [[How the Augmented Bonding Curve Worked]].
+→ For how the curve and the common pool actually worked, see [[Augmented Bonding Curve]].
 
 ## Praise, Impact Hours, and Rewards
 
@@ -50,7 +50,7 @@ Underneath the token mechanics was the TEC's cultural-economic engine, where mem
 
 **Praise** let community members acknowledge each other's work, in the open, as it happened. Recognized contribution accrued into **Impact Hours**, which connected unpaid and underpaid labor to the token economy after the Hatch. Over time this matured into recurring rewards rounds supported by Praise analysis, reward-board guidelines, SourceCred experiments, and contributor-factor modeling.
 
-→ For how Praise was dished and quantified into Impact Hours, see [[How Praise Worked]].
+→ For how Praise was dished and quantified into Impact Hours, see [[Praise]].
 
 It was not frictionless. Through mid-2022 the community worked through a genuinely hard question in how to be fair across people doing paid work, people volunteering, and people earning Praise-based rewards, without the three systems undermining each other. That debate is part of the record precisely because it was difficult, and it shows the real tension between recognizing contribution generously and compensating it sustainably.
 
@@ -70,4 +70,4 @@ None of this has to be taken on trust. The contracts, votes, parameters, and tre
 
 ---
 
-*Related:* [[How the Hatch Worked]] · [[How the Augmented Bonding Curve Worked]] · [[How Praise Worked]] · [[Overview/Tokens of the TEC]] · [[Governance]] · [[Sources/Onchain]]
+*Related:* [[The Hatch]] · [[Augmented Bonding Curve]] · [[Praise]] · [[Overview/Tokens of the TEC]] · [[Governance]] · [[Sources/Onchain]]

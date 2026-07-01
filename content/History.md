@@ -12,14 +12,14 @@ Preliminary meetings began in **late 2019**, and a roadmap started to take shape
 
 The TEC built on two key parts of the Commons Stack's open-source library:
 
-1. **An ecosystem of token-engineering tools and methodologies** — including the **Augmented Bonding Curve** (the commons' economic engine), the **Conviction Voting** module, and the **Tao Voting** module. See [[How the Augmented Bonding Curve Worked]] and [[Governance]].
+1. **An ecosystem of token-engineering tools and methodologies** — including the **Augmented Bonding Curve** (the commons' economic engine), the **Conviction Voting** module, and the **Tao Voting** module. See [[Augmented Bonding Curve]] and [[Governance]].
 2. **A cultural initialization system** — a framework for designing those tools and the governance that manages them, known as the **Cultural Build**. See [[Ostrom and the Cultural Build]].
 
 The technical components were meant to fund projects that discover, develop, and spread best practices for engineering safe tokenized economies. But those components depended heavily on the community managing them — so the early members treated the cultural build as a *necessary antecedent* to the project's success. As the community grew, distinct work streams emerged as **working groups** (see [[Working Groups]]), each providing a function the DAO needed: finding talent, seeking funding, and building infrastructure. The community grew rapidly, eventually numbering **over 200 contributors**.
 
 ## 2021 — The Hatch Process
 
-In 2021 the TEC began implementing its technical components through the **Hatch Process**: a two-phase system in which individuals could submit their own parameters for each set of smart contracts. This participatory design approach is what the TEC called **collaborative economics** (see [[How the Hatch Worked]]).
+In 2021 the TEC began implementing its technical components through the **Hatch Process**: a two-phase system in which individuals could submit their own parameters for each set of smart contracts. This participatory design approach is what the TEC called **collaborative economics** (see [[The Hatch]]).
 
 ### Phase 1 — Launching the Hatch DAO
 
@@ -41,6 +41,6 @@ With the Commons live, the TEC turned to growing its community and executing its
 
 ---
 
-*Related:* [[Overview]] · [[Timeline]] · [[Ostrom and the Cultural Build]] · [[How the Hatch Worked]] · [[How the Augmented Bonding Curve Worked]]
+*Related:* [[Overview]] · [[Timeline]] · [[Ostrom and the Cultural Build]] · [[The Hatch]] · [[Augmented Bonding Curve]]
 
 *Primary source: the TEC Handbook, "A Brief History."*
