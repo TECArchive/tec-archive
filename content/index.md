@@ -14,6 +14,7 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 
 - [[Archival Intent]] — why this archive exists and the principles behind it
 - [[Overview]] — what the TEC was, in brief
+- [[History]] — how the TEC began, and the two-phase Hatch
 - [[Timeline]] — the full lifecycle, 2020–2025
 - [[Sources]] — the platforms this record is drawn from
 

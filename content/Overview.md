@@ -33,6 +33,7 @@ Each of the core mechanisms has a dedicated deep dive: [[How the Hatch Worked]],
 
 ## Where to go next
 
+- [[History]] — how the TEC began, and the two-phase Hatch
 - [[Timeline]] — the full lifecycle, 2020–2025
 - [[Governance]] — proposals, voting, and structural decisions
 - [[Working Groups]] — how the organization actually ran
