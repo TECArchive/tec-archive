@@ -45,7 +45,7 @@ TEC produced a large body of software through smart contracts, governance and ec
 ## Web, content & branding
 
 - `tec-web`, `tec-info`, `tec-interface`, `tec-handbook` — public websites, interface, and handbook
-- `tec-branding-assets`, `tokenAssets`, `visuals` — brand and visual assets (see [[Communications]])
+- `tec-branding-assets`, `tokenAssets`, `visuals` — brand and visual assets
 - `content-distribution`, `tec-lab`, `tecmns`, `rad-classic` — content and lab projects
 
 ## Cultural & NFT experiments

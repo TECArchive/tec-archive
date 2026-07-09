@@ -21,7 +21,7 @@ People can redeem after voting
 People can Vote and control the DAO’s Funds
 People can Vote to upgrade the DAO’s smart contracts and parameters
 People can vote to mint and burn tokens
-People can vote on the wxDAI split ratio between reserve and [funding pools](%20https://forum.tecommons.org/t/guide-testtec-dao-3-bonding-curve/75)
+People can vote on the wxDAI split ratio between reserve and [funding pools](https://forum.tecommons.org/t/guide-testtec-dao-3-bonding-curve/75)
 People create proposals in the Dandelion Voting app paying the required [tollgate fees](https://forum.tecommons.org/t/tollgate-fee-deep-dive/128).
 People can claim 100% of their funds back if the Hatch doesn't reach its [Minimum Goal](https://forum.tecommons.org/t/hatch-goals-deep-dive/62).
 

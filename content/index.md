@@ -24,7 +24,6 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 - [[Governance]] — proposals, voting mechanisms, and structural decisions
 - [[Working Groups]] — how labor, stewardship, and operations were organized
 - [[Economics and Token Design]] — the Hatch, the Augmented Bonding Curve, rewards, and treasury
-- [[Communications]] — outreach, content, and community storytelling
 - [[Research]] — token engineering research, ethics, and education initiatives
 - [[Code and Technical Artifacts]] — the smart contracts, apps, and tooling repositories
 - [[Documents]] — original TEC source documents, published verbatim

@@ -12,7 +12,7 @@ This section indexes the major working groups documented in the source material.
 
 - **Community Stewards / Community Stewards WG** — community health, stewardship, and operations; weekly agendas and a manifesto.
 - **Gravity** — TEC's conflict-transformation and mediation system: a manifesto, training programs (including Graviton training), mediation and observation forms, and an extensive set of call notes. See its dedicated tooling in [[Code and Technical Artifacts]].
-- **Communications (Comms) / Commons Swarm** — outreach, content, and community storytelling; weekly sync notes and recaps. See [[Communications]].
+- **Communications (Comms) / Commons Swarm** — outreach, content, and community storytelling; weekly sync notes and recaps.
 - **Legal** — legal strategy and risk; a manifesto, agendas, and a legal audit.
 - **Transparency** — transparency practices and reporting; agendas, an audit, and the "Transparency in DAOs" research.
 - **Tech Spec** — technical specification of the Commons; a manifesto and working specification documents. See [[Code and Technical Artifacts]].
