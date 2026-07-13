@@ -5,9 +5,9 @@ import * as Component from "./quartz/components"
 // NOTE: this function is serialized to the client, so it must be self-contained.
 const overviewSortFn = (a: any, b: any) => {
   const order = [
+    "overview/history",
     "overview/mission-vision-and-values",
     "overview/timeline",
-    "overview/history",
     "overview/economics-and-token-design",
     "overview/the-hatch",
     "overview/augmented-bonding-curve",

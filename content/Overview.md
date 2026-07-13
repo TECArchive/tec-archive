@@ -17,9 +17,9 @@ Over its life, TEC functioned as:
 
 A guided reading order through the record — from what the TEC believed, to how it launched, governed itself, funded work, and what it built:
 
-1. [[Mission Vision and Values|Mission, Vision & Values]] — the vision, values, and mission the TEC set for itself
-2. [[Timeline]] — the full lifecycle, 2020–2025
-3. [[History]] — how the TEC began, and the two-phase Hatch
+1. [[History]] — how the TEC began, launched, operated, and wound down
+2. [[Mission Vision and Values|Mission, Vision & Values]] — the vision, values, and mission the TEC set for itself
+3. [[Timeline]] — the full lifecycle, 2020–2025
 4. [[Economics and Token Design|Economics & Token Design]] — the economic system, end to end, and why it was designed that way
 5. [[The Hatch]] — the two-phase community launch that raised capital and formed the community at once
 6. [[Augmented Bonding Curve]] — the continuous-funding economic engine
