@@ -15,7 +15,7 @@ Over its life, TEC functioned as:
 
 ## Explore the archive
 
-A guided reading order through the record — from what the TEC believed, to how it launched, governed itself, funded work, and what it built:
+A guided reading order through the record, from what the TEC believed, to how it launched, governed itself, funded work, and what it built:
 
 1. [[History]] — how the TEC began, launched, operated, and wound down
 2. [[Mission Vision and Values|Mission, Vision & Values]] — the vision, values, and mission the TEC set for itself
