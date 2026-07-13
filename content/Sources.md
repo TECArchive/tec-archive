@@ -8,7 +8,7 @@ The TEC operated in public, across several platforms, each serving a different r
 
 - [[Sources/Discourse]] — the governance forum: proposals, parameter debates, and the formal deliberation record
 - [[Sources/Discord]] — real-time coordination, working-group channels, and announcements
-- [[Sources/Telegram]] — broadcast announcements and informal community chat
+- [[Sources/YouTube]] — recorded community and working-group calls, educational content, and event videos
 - [[Sources/Onchain]] — the smart contracts, votes, and treasury transactions on Gnosis Chain and Optimism
 - [[Sources/Bots]] — the automation layer: contribution, moderation, integration, and event bots
 - [[Sources/Definitions]] — a glossary of Web3 and TEC-specific terms for readers new to the space

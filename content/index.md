@@ -46,7 +46,7 @@ Deep dives on the mechanisms that defined the TEC:
 
 ## What this archive is
 
-A browseable knowledge base with notes, timelines, and indices are stitched together with references to the public source systems (Discord, Discourse, Telegram, onchain) and summaries of TEC's governance, economic, and technical evolution.
+A browseable knowledge base with notes, timelines, and indices are stitched together with references to the public source systems (Discord, Discourse, YouTube, onchain) and summaries of TEC's governance, economic, and technical evolution.
 
 ## What this archive is not
 
