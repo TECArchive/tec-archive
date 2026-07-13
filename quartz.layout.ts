@@ -22,20 +22,28 @@ const overviewSortFn = (a: any, b: any) => {
     "overview/research",
     "overview/dissolution-of-the-tec",
   ]
+  // Top-level order: interleaves section folders and standalone pages.
+  const topOrder = [
+    "About the Archive",
+    "Documents",
+    "Overview",
+    "Sources",
+    "Knowledge Base",
+    "Definitions",
+    "Perspectives",
+  ]
+  const ta = topOrder.indexOf(a.displayName)
+  const tb = topOrder.indexOf(b.displayName)
+  if (ta !== -1 && tb !== -1) return ta - tb
+
   const ia = order.indexOf((a.slug || "").toLowerCase())
   const ib = order.indexOf((b.slug || "").toLowerCase())
   if (ia !== -1 && ib !== -1) return ia - ib
   if (ia !== -1) return -1
   if (ib !== -1) return 1
-  // top-level sections in a fixed order (Perspectives below Sources); else alphabetical
-  if (a.isFolder && b.isFolder) {
-    const topOrder = ["About the Archive", "Documents", "Overview", "Sources", "Perspectives"]
-    const ta = topOrder.indexOf(a.displayName)
-    const tb = topOrder.indexOf(b.displayName)
-    if (ta !== -1 && tb !== -1) return ta - tb
-    return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
-  }
-  if (!a.isFolder && !b.isFolder) {
+
+  // default: folders before files, then alphabetical (numeric-aware)
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
     return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
   }
   return a.isFolder ? -1 : 1

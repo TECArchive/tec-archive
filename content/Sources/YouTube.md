@@ -4,7 +4,7 @@ title: YouTube
 
 # YouTube
 
-**Platform:** YouTube — the TEC's video channel and recorded-call archive
+**Platform:** YouTube was the TEC's video channel and recorded-call archive
 
 YouTube was the TEC's **video record**. In keeping with the community's commitment to transparency, most community calls and working-group meetings were recorded and published to the channel, alongside educational content, event recordings, and research sessions. For a project that did much of its work in live calls, YouTube is where a large part of that spoken, face-to-face history is preserved.
 

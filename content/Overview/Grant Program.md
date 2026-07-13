@@ -4,7 +4,7 @@ title: Grant Program
 
 # The Grant Program
 
-Funding public goods in token engineering was the TEC's outward-facing purpose — the point at which its mission met the wider field. Over its life the TEC moved from ad-hoc, proposal-by-proposal funding to a structured, recurring **grants program** run through quadratic funding. This page traces that evolution and records what the TEC actually funded.
+Funding public goods in token engineering was the TEC's outward-facing purpose, and the point at which its mission met the wider field. Over its life the TEC moved from ad-hoc, proposal-by-proposal funding to a structured, recurring **grants program** run through quadratic funding. This page traces that evolution and records what the TEC actually funded.
 
 ## From individual proposals to a program
 
@@ -19,7 +19,7 @@ By 2023, sustainability pressures pushed the TEC to formalize this into a repeat
 
 The centrepiece was the **Token Engineering (TE) Grants Program**, a series of **Quadratic Funding (QF) rounds** run in partnership with **Gitcoin** on its Allo Protocol, with matching funds drawn from the TEC's Common Pool. QF let many small community donations determine how a larger matching pool was distributed, directing money toward the projects the community most broadly valued.
 
-A signature TEC innovation was the **TE Matching Boost** — to the TEC's knowledge, the first round of its kind to reward *donors* who qualified on field-specific criteria (holding ≥ 10 `$TEC` and/or a Token Engineering Academy certificate), giving their contributions extra matching weight to better align funding with people invested in the field.
+A signature TEC innovation was the **TE Matching Boost** — this was the first round of its kind to reward *donors* who qualified on field-specific criteria (holding ≥ 10 `$TEC` and/or a Token Engineering Academy certificate), giving their contributions extra matching weight to better align funding with people invested in the field.
 
 The program ran through the following rounds:
 
@@ -31,11 +31,11 @@ The program ran through the following rounds:
 
 ## Token Engineering the Superchain (2024)
 
-After the [[OP Migration]], the TEC aligned its grants work directly with the Optimism ecosystem through **Token Engineering the Superchain** — a dual-phase 2024 initiative: first a **Tunable Quadratic Funding (TQF)** round on Gitcoin Grants 21 to fund high-potential projects advancing token engineering across Optimism and the broader Superchain, followed by a planned **Retroactive Funding** round rewarding grantees on demonstrated milestones and impact. This was the clearest expression of the migration's strategic logic: put the TEC's public-goods funding where the Superchain's retroactive-funding culture lived.
+After the [[OP Migration]], the TEC aligned its grants work directly with the Optimism ecosystem through **Token Engineering the Superchain**, which was a dual-phase 2024 grant initiative. This was also the first **Tunable Quadratic Funding (TQF)** round on Gitcoin Grants 21 to fund high-potential projects advancing token engineering across Optimism and the broader Superchain, followed by a planned **Retroactive Funding** round rewarding grantees on demonstrated milestones and impact. This was the clearest expression of the migration's strategic logic, to put the TEC's public-goods funding where the Superchain's retroactive-funding culture lived.
 
 ## What the record shows
 
-A few patterns stand out across the rounds. A core set of token-engineering public goods — **Commons Stack, the Bonding Curve Research Group, cadCAD, EVMcrispr, Index Wallets, SymVal, TurtleShell** — recurred as grantees, reflecting the tight, mutually-supporting field the TEC sat within. Funding sources evolved from the TEC's own Common Pool toward external sponsors and Gitcoin/Optimism matching, part of the sustainability strategy. And the program consistently paired funding with *experimentation on funding itself* — the TE Matching Boost, tunable QF, and retroactive rounds were mechanism-design contributions in their own right.
+A few patterns stand out across the rounds. A core set of token-engineering public goods such as **Commons Stack, the Bonding Curve Research Group, cadCAD, EVMcrispr, Index Wallets, SymVal, TurtleShell**, recurred as grantees, reflecting the tight, mutually-supporting field the TEC sat within. Funding sources evolved from the TEC's own Common Pool toward external sponsors and Gitcoin/Optimism matching, part of the sustainability strategy. And the program consistently paired funding with *experimentation on funding itself* which included the TE Matching Boost, tunable QF, and retroactive rounds which were mechanism-design contributions in their own right.
 
 Late in the TEC's life, a **Grant Program Analysis & Framework** proposal reflected on this history and tried to distil what had worked, as part of the wind-down conversation.
 

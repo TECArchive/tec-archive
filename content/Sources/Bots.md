@@ -4,13 +4,13 @@ title: Bots
 
 # Bots and Automation
 
-The TEC ran a substantial amount of its day-to-day operation through **bots** — automated accounts, mostly on Discord, that handled everything from recognizing contributions and gating access to posting code updates and scheduling calls. For a community that treated coordination as an engineering problem, this automation layer was itself part of the infrastructure.
+The TEC ran a substantial amount of its day-to-day operation through **bots** and automated accounts, mostly on Discord, that handled everything from recognizing contributions and gating access to posting code updates and scheduling calls. For a community that treated coordination as an engineering problem, this automation layer was itself part of the infrastructure.
 
 This page catalogs the bots evidenced in the record. They were identified from the Discord export (accounts the platform flags as bots, plus their dedicated logging channels such as `bot-logs` and `bot-setup`) and from the working documents. Some are standard third-party Discord bots; some were **custom TEC automations**; and a few are bridged announcement feeds from partner projects. Where a bot's exact function isn't documented, its purpose is inferred from its name and the channels it operated in, and noted as such.
 
 ## Contribution, rewards, and governance
 
-These are the most TEC-specific bots — the automation behind the community's economic and recognition systems.
+These are the most TEC-specific bots, and the automation behind the community's economic and recognition systems.
 
 - **Praise** (also seen as *TEC Praise Bot* and *Praise Bot*) — the heart of TEC's contribution culture. Members praised each other with a bot command; those praises were later quantified into Impact Hours and reward allocations. This bot operated across nearly every active channel and is central to the story told in [[Praise]] and [[Economics and Token Design]].
 - **SourceCred** — contribution-tracking automation that scored community participation; part of the early rewards tooling (dedicated `sourcecred` channel).
@@ -57,7 +57,7 @@ Bots that protected the server and managed membership and roles.
 
 ## Utility and music
 
-A set of standard third-party music/utility bots ran in the voice and `play-music` channels, including **Groovy**, **Rythm**, **FredBoat**, **Tempo**, **Chip**, and **BreakoutBot** — ordinary community-server tooling rather than anything specific to TEC's mission.
+A set of standard third-party music/utility bots ran in the voice and `play-music` channels, including **Groovy**, **Rythm**, **FredBoat**, **Tempo**, **Chip**, and **BreakoutBot** which was ordinary community-server tooling rather than anything specific to TEC's mission.
 
 ---
 

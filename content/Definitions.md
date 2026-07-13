@@ -4,7 +4,7 @@ title: Definitions
 
 # Definitions & Glossary
 
-The TEC operated in a specialized world — token engineering, DAOs, and Ethereum governance — with a vocabulary that can be opaque to anyone outside Web3 or the community itself. This glossary defines the terms that recur throughout the archive, in plain language, with a note on how the TEC used them where the local meaning differs from the general one.
+The TEC operated in a specialized world of token engineering, DAOs, and Ethereum governance, and with it a large amount of terms that can be opaque to anyone outside Web3 or the community itself. This glossary defines the terms that recur throughout the archive, in plain language, with a note on how the TEC used them where the local meaning differs from the general one.
 
 Terms are listed alphabetically.
 

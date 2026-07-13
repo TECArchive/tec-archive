@@ -4,7 +4,7 @@ title: Knowledge Base
 
 # Knowledge Base
 
-Beyond its governance and code, the TEC produced a substantial body of **public knowledge** — essays, research, explainers, and recorded talks that advanced token engineering as a field and documented the community's own thinking. Much of this lived on Medium and YouTube, outside the platforms captured elsewhere in this archive. This page aggregates that published output, together with a selection of closely related work.
+Beyond its governance and code, the TEC produced a substantial body of **public knowledge** via essays, research, explainers, and recorded talks that advanced token engineering as a field and documented the community's own thinking. Much of this lived on Medium and YouTube, outside the platforms captured elsewhere in this archive. This page aggregates that published output, together with a selection of closely related work.
 
 The items below are external links provided for reference; they were not part of the archive's data exports. For knowledge captured within the archive itself, see also [[Research]], [[Code and Technical Artifacts]], and the [[Documents]] section.
 
@@ -41,11 +41,11 @@ Selected recordings from the TEC's YouTube channel (TEC Talks, Research Hub, and
 
 ## A field it helped seed
 
-The TEC's influence extended well beyond its own walls. It went on to **inspire the creation of multiple organizations and individuals who have created and contributed to the ongoing development of token engineering** — through education, research, tooling, and standards that continue after the Commons itself has closed. The work below, from collaborators and the wider field, reflects that lineage.
+The TEC's influence extended well beyond its own walls. It went on to **inspire the creation of multiple organizations and individuals who have created and contributed to the ongoing development of token engineering** through education, research, tooling, and standards that continue after the Commons itself has closed. The work below, from collaborators and the wider field, reflects that lineage.
 
 ### Writing
 
-- [Token Engineering: First Principles](https://medium.com/coinshares/token-engineering-first-principles-9b243253093f) — CoinShares
+- [Token Engineering: First Principles](https://medium.com/coinshares/token-engineering-first-principles-9b243253093f) - CoinShares
 - [Towards a Practice of Token Engineering](https://medium.com/oceanprotocol/towards-a-practice-of-token-engineering-b02feeeff7ca) — Ocean Protocol
 - [The Data Value Creation Loop](https://medium.com/oceanprotocol/the-data-value-creation-loop-68e23575be02) — Ocean Protocol
 - [Token Engineering Case Studies](https://medium.com/oceanprotocol/token-engineering-case-studies-b44267e68f4) — Ocean Protocol
@@ -55,12 +55,12 @@ The TEC's influence extended well beyond its own walls. It went on to **inspire 
 - [Conviction Voting: A Novel Continuous Decision-Making Alternative to Governance](https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d) — Commons Stack
 - [Exploring Bonding Curves: Differentiating Primary, Secondary & Automated Market Makers](https://medium.com/@jeffemmett/exploring-bonding-curves-differentiating-primary-secondary-automated-market-makers-60877e801930) — Jeff Emmett
 - [Rewriting the Story of Human Collaboration](https://medium.com/good-audience/rewriting-the-story-of-human-collaboration-c33a8a4cd5b8) — Good Audience
-- [BlockScience — Medium publication](https://medium.com/block-science) — collaborators
-- [Token Kitchen — Medium publication](https://medium.com/token-kitchen) — collaborators
+- [BlockScience — Medium publication](https://medium.com/block-science) — TE Firm
+- [Token Kitchen — Medium publication](https://medium.com/token-kitchen) — TE Writers
 
 ### Talks & video
 
-- [Token Engineering Fundamentals | Michael Zargham & Matt Barlin, BlockScience](https://youtu.be/DsRG9uZmME8) — TE Academy
+- [Token Engineering Fundamentals | Michael Zargham & Matt Barlin, BlockScience](https://youtu.be/DsRG9uZmME8) — BlockScience
 - [Introduction to Token Engineering & Community Updates around the Globe — FullNode Berlin](https://youtu.be/sBdBgiVaILI) — TE Academy
 - [Token Engineering | Trent McConaghy, CE Meetup](https://youtu.be/VoCoXZhh_1M) — Cryptoeconomics Hub
 

@@ -4,7 +4,7 @@ title: OP Migration
 
 # The Optimism Migration
 
-In December 2023, the TEC moved its DAO and token from **Gnosis Chain** — where it had launched and operated since the Hatch — to **Optimism (OP Mainnet)**. This was one of the most consequential governance decisions in the project's life: it changed the technical foundation the Commons ran on, replaced part of its governance stack, and repositioned the TEC within a new ecosystem. This page explains why the migration happened, what it involved, and how the community carried it out.
+In December 2023, the TEC moved its DAO and token from **Gnosis Chain**, where it had launched and operated since the Hatch, to **Optimism (OP Mainnet)**. This was one of the most consequential governance decisions in the project's life as it changed the technical foundation the Commons ran on, replaced part of its governance stack, and repositioned the TEC within a new ecosystem. This page explains why the migration happened, what it involved, and how the community carried it out.
 
 ## Why the TEC migrated
 
@@ -16,11 +16,11 @@ By 2023 the TEC had entered a strategic pivot toward sustainability, and the mig
 
 ## What it involved
 
-The migration was not a simple redeployment — several core components of the TEC's governance stack did not exist on Optimism and had to be replaced or re-created:
+The migration was not a simple redeployment, as several core components of the TEC's governance stack did not exist on Optimism and had to be replaced or re-created:
 
-- **From Gardens to a Tao Voting DAO.** On Gnosis, the TEC ran on **1Hive Gardens**. Gardens was not available on Optimism, so the DAO transitioned to a **Tao Voting DAO** — still built on the Aragon OS framework, with the same kind of tokens, a delegate voting system, and the ability to attach the same [[Augmented Bonding Curve]].
-- **From Celeste to TEC Guardians.** The TEC's dispute-resolution layer, **Celeste**, was also unavailable on Optimism. In its place the community introduced **TEC Guardians** — a group of trusted members empowered to veto proposals that violated the [[Community Covenant]]. This introduced a new, more human-trust-based safeguard into TEC governance (see [[Governance]]).
-- **Token and treasury migration.** The `$TEC` token was re-issued on Optimism and holders' balances migrated; the bonding curve and treasury moved with it. The work was scoped and executed by the **TECAN-Strategy** group and **Turmeric Labs**.
+- **From Gardens to a Tao Voting DAO.** On Gnosis, the TEC ran on **1Hive Gardens**. Gardens was not available on Optimism, so the DAO transitioned to a **Tao Voting DAO**, which was still built on the Aragon OS framework, with the same kind of tokens, a delegate voting system, and the ability to attach the same [[Augmented Bonding Curve]].
+- **From Celeste to TEC Guardians.** The TEC's dispute-resolution layer, **Celeste**, was also unavailable on Optimism. In its place the community introduced **TEC Guardians**, a group of trusted members empowered to veto proposals that violated the [[Community Covenant]]. This introduced a new, more human-trust-based safeguard into TEC governance (see [[Governance]]).
+- **Token and treasury migration.** The `$TEC` token was re-issued on Optimism and holders' balances migrated; the bonding curve and treasury moved with it. The work was scoped and executed by the **TECAN-Strategy**.
 
 ## The process
 
