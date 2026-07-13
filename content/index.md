@@ -43,6 +43,7 @@ Deep dives on the mechanisms that defined the TEC:
 - [[Archival Intent]]
 - [[Archival Policy]]
 - [[Archive Publication Checklist]]
+- [[Researchers|For Researchers]] — how to use the data repository (datasets, schemas, downloads)
 
 ## What this archive is
 
