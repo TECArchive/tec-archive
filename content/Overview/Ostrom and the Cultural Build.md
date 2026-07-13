@@ -6,7 +6,7 @@ title: Ostrom and the Cultural Build
 
 The Token Engineering Commons began with a **Cultural Build**. Starting in August 2020, well before any economic launch, the community deliberately invested in the human side of the system first by establishing the norms, relationships, working groups, and shared agreements that would have to hold the organization together once money was involved.
 
-The reasoning was explicit. Economics is a social science, grounded in human behavior, and much of that behavior is conditioned by traditional economic systems. The TEC treated it as a collective responsibility to question those patterns and to build new ones intentionally. Technology was understood as a tool in service of that goal, and not a substitute for it. The people designing and operating the system were responsible for making it ethical, human-centered, and sustainable.
+The reasoning was explicit --> Economics is a social science, grounded in human behavior, and much of that behavior is conditioned by traditional economic systems. The TEC treated it as a collective responsibility to question those patterns and to build new ones intentionally. Technology was understood as a tool in service of that goal, and not a substitute for it. The people designing and operating the system were responsible for making it ethical, human-centered, and sustainable.
 
 ## Building on Elinor Ostrom
 

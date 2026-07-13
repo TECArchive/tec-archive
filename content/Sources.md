@@ -10,6 +10,8 @@ The TEC operated in public, across several platforms, each serving a different r
 - [[Sources/Discord]] — real-time coordination, working-group channels, and announcements
 - [[Sources/Telegram]] — broadcast announcements and informal community chat
 - [[Sources/Onchain]] — the smart contracts, votes, and treasury transactions on Gnosis Chain and Optimism
+- [[Sources/Bots]] — the automation layer: contribution, moderation, integration, and event bots
+- [[Sources/Definitions]] — a glossary of Web3 and TEC-specific terms for readers new to the space
 
 ## How to read the sources
 

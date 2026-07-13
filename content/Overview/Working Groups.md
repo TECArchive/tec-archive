@@ -24,6 +24,6 @@ This section indexes the major working groups documented in the source material.
 
 ## Lifecycle artifacts
 
-The source material also preserves the *retirement* documents for several groups (e.g. Communitas, Stewards, Transparency), a checklist for creating new working groups, a standard WG agenda template, and onboarding/offboarding processes — useful evidence of how TEC started, ran, and wound down teams.
+The source material also preserves the *retirement* documents for several groups (e.g. Communitas, Stewards, Transparency), a checklist for creating new working groups, a standard WG agenda template, and onboarding/offboarding processes, providing useful evidence of how TEC started, ran, and wound down teams.
 
 > Individual manifestos, agendas, and notes are being progressively published here in redacted form.

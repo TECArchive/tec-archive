@@ -6,6 +6,8 @@ title: Mission, Vision & Values
 
 These statements were stabilized by the community during 2021 as part of TEC's cultural governance. They are reproduced here as a historical record of how TEC described its own purpose.
 
+The statements did not arrive fully formed. The community revisited them at three separate checkpoints, each a structured opportunity to review the wording and propose revisions, before the versions below were settled. That iterative process, allowed for refining the Commons' self-description together rather than fixing it once, and was itself part of TEC's cultural governance.
+
 ## Vision
 
 > A safer world with digital socio-economic public infrastructures that are diversely designed and aligned with collective needs.
@@ -22,7 +24,7 @@ The TEC operated from a prosocial, human-centered perspective. It held itself to
 
 ## Mission (long)
 
-The longer statement expanded on the kinds of initiatives TEC aimed to support — anything advancing its vision, and especially work that was:
+The longer statement expanded on the kinds of initiatives TEC aimed to support, and included anything advancing its vision, and especially work that was:
 
 - accelerating robust, diverse, battle-tested token-engineering design standards;
 - adding to the open-source library of TE education, documentation, toolkits, playbooks, and resources;
@@ -36,7 +38,7 @@ The curation of which initiatives to fund was to be guided, first and foremost, 
 
 ## Near-term mission (launch era)
 
-In its formative period, TEC framed a narrower near-term goal: to get the Commons **launched and operating with a resilient culture**. Once launched, the TEC — its smart contracts and the culture built around them — would align incentives toward advancing the token engineering discipline. Key requirements included launch by a *Trusted Seed* of token-engineering, governance, and commons-management practitioners; an Augmented Bonding Curve feeding a community pool disbursed via Conviction Funding; and an upgradeable design that could improve on its initial form.
+In its formative period, TEC framed a narrower near-term goal: to get the Commons **launched and operating with a resilient culture**. Once launched, the TEC (its smart contracts and the culture built around them) would align incentives toward advancing the token engineering discipline. Key requirements included launch by a *Trusted Seed* of token-engineering, governance, and commons-management practitioners; an Augmented Bonding Curve feeding a community pool disbursed via Conviction Funding; and an upgradeable design that could improve on its initial form.
 
 ---
 

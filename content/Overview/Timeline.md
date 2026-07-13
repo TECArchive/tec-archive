@@ -14,9 +14,9 @@ A far more detailed, thread-by-thread chronicle drawn from the governance forum 
 
 **October 2020 — Conviction Voting test platform onboarding.** TEC began translating governance theory into hands-on participation, with practical instructions for wallets, test tokens, proposal support, and submission. An early move from discussion into active experimentation with governance tooling.
 
-**November 2020 — Hatch parameter design begins.** The community started designing the economic birth of TEC: Hatch goals, period, tribute, vesting, Impact Hours, bonding curve settings, and funding pool assumptions. These threads established the Hatch as both a fundraising event and a governance formation process.
+**November 2020 — Hatch parameter design begins.** The community started designing the economic birth of TEC, which included Hatch goals, period, tribute, vesting, Impact Hours, bonding curve settings, and funding pool assumptions. These threads established the Hatch as both a fundraising event and a governance formation process.
 
-**November 2020 — Two-stage launch strategy.** TEC adopted a staged launch: first the Hatch DAO and Dandelion-style governance, with the Augmented Bonding Curve and Conviction Voting added later through governance. A foundational decision shaping legal risk, technical sequencing, onboarding, and expectations.
+**November 2020 — Two-stage launch strategy.** TEC adopted a staged launch, where first the Hatch DAO and Dandelion-style governance, with the Augmented Bonding Curve and Conviction Voting added later through governance. A foundational decision shaping legal risk, technical sequencing, onboarding, and expectations.
 
 **November 2020–2021 — Praise, Impact Hours, and contribution rewards take shape.** TEC developed a core cultural system that  recognized unpaid and underpaid contribution through Praise, translating recognized work into Impact Hours, and connecting that record to token rewards. This became central to TEC's culture, compensation logic, and contributor identity.
 
