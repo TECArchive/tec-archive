@@ -6,6 +6,15 @@ title: Primary Documents
 
 This section holds **original TEC source documents**, preserved and published verbatim (export formatting cleaned; content unchanged) and organized by area. Documents marked *(redacted)* have had personal names, handles, and emails replaced with `[REDACTED]` per the [[Archival Policy]]; all others were already free of personal names.
 
+## Download the full document archive
+
+The curated pages below are a readable selection. The **complete set of TEC working documents** — 106 files, de-identified and organized by working group and type — is available for download from the archive's data repository, so researchers can take one working group or the entire corpus:
+
+- **[Full document archive (.zip)](https://github.com/TECArchive/tec-archive-data/raw/main/bundles/tec-archive-documents-full.zip)** — every included document
+- **[Browse by working group](https://github.com/TECArchive/tec-archive-data/tree/main/documents)** — per-group folders, individual `.zip` bundles for each working group, and a full index/README
+
+Everything in the download is de-identified per the [[Archival Policy]]. A small number of consent-sensitive files (conflict-mediation records and credential sheets) are deliberately withheld.
+
 ## Policy & Agreements
 
 The rules, norms, and agreements that governed participation.
