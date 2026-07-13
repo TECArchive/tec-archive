@@ -12,9 +12,6 @@ const overviewSortFn = (a: any, b: any) => {
     "overview/the-hatch",
     "overview/augmented-bonding-curve",
     "overview/ostrom-and-the-cultural-build",
-    "overview/governance",
-    "overview/working-groups",
-    "overview/praise",
     "overview/code-and-technical-artifacts",
     "overview/tokens-of-the-tec",
     "overview/op-migration",
@@ -25,8 +22,8 @@ const overviewSortFn = (a: any, b: any) => {
   // Top-level order: interleaves section folders and standalone pages.
   const topOrder = [
     "About the Archive",
-    "Documents",
     "Overview",
+    "Governance",
     "Sources",
     "Knowledge Base",
     "Definitions",

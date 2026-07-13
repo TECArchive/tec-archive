@@ -21,12 +21,10 @@ TEC operated as a research commons, a grant-making DAO, a governance laboratory,
 ## Browse the archive
 
 - [[Overview]] — mission, vision, values, and how the token system worked
-- [[Governance]] — proposals, voting mechanisms, and structural decisions
-- [[Working Groups]] — how labor, stewardship, and operations were organized
+- [[Governance]] — decision-making and mechanisms, the rules and processes, the working groups, and the source documents
 - [[Economics and Token Design]] — the Hatch, the Augmented Bonding Curve, rewards, and treasury
 - [[Research]] — token engineering research, ethics, and education initiatives
 - [[Code and Technical Artifacts]] — the smart contracts, apps, and tooling repositories
-- [[Documents]] — original TEC source documents, published verbatim
 - [[Perspectives]] — first-person reflections from people who were part of the TEC
 
 ## Key concepts

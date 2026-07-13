@@ -6,7 +6,7 @@ title: Knowledge Base
 
 Beyond its governance and code, the TEC produced a substantial body of **public knowledge** via essays, research, explainers, and recorded talks that advanced token engineering as a field and documented the community's own thinking. Much of this lived on Medium and YouTube, outside the platforms captured elsewhere in this archive. This page aggregates that published output, together with a selection of closely related work.
 
-The items below are external links provided for reference; they were not part of the archive's data exports. For knowledge captured within the archive itself, see also [[Research]], [[Code and Technical Artifacts]], and the [[Documents]] section.
+The items below are external links provided for reference; they were not part of the archive's data exports. For knowledge captured within the archive itself, see also [[Research]], [[Code and Technical Artifacts]], and the [[Governance]] section's source documents.
 
 ## Token Engineering Commons — writing
 
@@ -66,4 +66,4 @@ The TEC's influence extended well beyond its own walls. It went on to **inspire 
 
 ---
 
-*Related:* [[Research]] · [[Code and Technical Artifacts]] · [[Sources/YouTube]] · [[Documents]]
+*Related:* [[Research]] · [[Code and Technical Artifacts]] · [[Sources/YouTube]] · [[Governance]]

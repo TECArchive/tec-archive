@@ -24,12 +24,11 @@ A guided reading order through the record, from what the TEC believed, to how it
 5. [[The Hatch]] — the two-phase community launch that raised capital and formed the community at once
 6. [[Augmented Bonding Curve]] — the continuous-funding economic engine
 7. [[Ostrom and the Cultural Build]] — building on Elinor Ostrom's commons principles
-8. [[Governance]] — proposals, voting mechanisms, and structural decisions
-9. [[Working Groups]] — how labor, stewardship, and operations were organized
-10. [[Praise]] — the culture of gratitude that became Impact Hours
-11. [[Code and Technical Artifacts|Code & Technical Artifacts]] — the smart contracts, apps, and tooling
-12. [[Tokens of the TEC]] — the several tokens of the TEC and the role each played
-13. [[OP Migration]] — why the TEC moved from Gnosis Chain to Optimism, and how
-14. [[Grant Program]] — how the TEC funded token-engineering public goods, and what it funded
-15. [[Research]] — token-engineering research, ethics, and education initiatives
-16. [[Dissolution of the TEC]] — how and why the TEC deliberately wound itself down
+8. [[Code and Technical Artifacts|Code & Technical Artifacts]] — the smart contracts, apps, and tooling
+9. [[Tokens of the TEC]] — the several tokens of the TEC and the role each played
+10. [[OP Migration]] — why the TEC moved from Gnosis Chain to Optimism, and how
+11. [[Grant Program]] — how the TEC funded token-engineering public goods, and what it funded
+12. [[Research]] — token-engineering research, ethics, and education initiatives
+13. [[Dissolution of the TEC]] — how and why the TEC deliberately wound itself down
+
+Governance, the working groups, and the Praise culture now live in the [[Governance]] section.

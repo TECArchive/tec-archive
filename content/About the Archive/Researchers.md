@@ -15,7 +15,7 @@ This website is the **readable, curated layer** of the archive. Its companion �
   - `chat_messages.jsonl` — the Discord chat record (in-scope channels)
   - `onchain_transfers.jsonl` and `onchain_events.jsonl` — token transfers and contract events on Gnosis Chain and Optimism
 - **`schemas/`** — a JSON Schema for each dataset, documenting every field.
-- **`documents/`** and **`bundles/`** — the scrubbed TEC working documents, organized by working group and type, with a `.zip` bundle for each working group plus a full-archive bundle (see [[Documents]] for direct download links).
+- **`documents/`** and **`bundles/`** — the scrubbed TEC working documents, organized by working group and type, with a `.zip` bundle for each working group plus a full-archive bundle (the [[Governance]] section and its working-group pages link directly to these).
 - **`pipelines/`** — the export, normalization, and redaction code that produced the datasets and documents, so the work is auditable and reproducible.
 - **`meta/`** — provenance, the redaction log, known gaps, verified on-chain addresses, the Discord channel map, and checksum manifests.
 
@@ -61,4 +61,4 @@ A suggested citation:
 
 ---
 
-*See also:* [[Archival Intent]] · [[Archival Policy]] · [[Sources]] · [[Documents]]
+*See also:* [[Archival Intent]] · [[Archival Policy]] · [[Sources]] · [[Governance]]
