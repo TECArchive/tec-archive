@@ -25,9 +25,8 @@ const overviewSortFn = (a: any, b: any) => {
     "Overview",
     "Governance",
     "Sources",
-    "Knowledge Base",
-    "Definitions",
     "Perspectives",
+    "Definitions",
   ]
   const ta = topOrder.indexOf(a.displayName)
   const tb = topOrder.indexOf(b.displayName)

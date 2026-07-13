@@ -11,6 +11,7 @@ The TEC operated in public, across several platforms, each serving a different r
 - [[Sources/YouTube]] — recorded community and working-group calls, educational content, and event videos
 - [[Sources/Onchain]] — the smart contracts, votes, and treasury transactions on Gnosis Chain and Optimism
 - [[Sources/Bots]] — the automation layer: contribution, moderation, integration, and event bots
+- [[Sources/Knowledge Base]] — the TEC's published writing and talks, and the wider field it helped seed
 
 ## How to read the sources
 
