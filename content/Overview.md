@@ -32,3 +32,4 @@ A guided reading order through the record — from what the TEC believed, to how
 13. [[OP Migration]] — why the TEC moved from Gnosis Chain to Optimism, and how
 14. [[Grant Program]] — how the TEC funded token-engineering public goods, and what it funded
 15. [[Research]] — token-engineering research, ethics, and education initiatives
+16. [[Dissolution of the TEC]] — how and why the TEC deliberately wound itself down

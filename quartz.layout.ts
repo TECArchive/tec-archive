@@ -20,6 +20,7 @@ const overviewSortFn = (a: any, b: any) => {
     "overview/op-migration",
     "overview/grant-program",
     "overview/research",
+    "overview/dissolution-of-the-tec",
   ]
   const ia = order.indexOf((a.slug || "").toLowerCase())
   const ib = order.indexOf((b.slug || "").toLowerCase())
