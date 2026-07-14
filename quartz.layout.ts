@@ -52,8 +52,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Archive on GitHub": "https://github.com/TECArchive/tec-archive",
+      "Data & Downloads": "https://github.com/TECArchive/tec-archive-data",
+      YouTube: "https://www.youtube.com/channel/UCagCOhMqMNU29rWx259-tcg",
     },
   }),
 }

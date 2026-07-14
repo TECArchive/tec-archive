@@ -1,3 +1,60 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* ============================================================
+   TEC Archive — brand polish
+   Brand mark colour: TEC lime #defb48 (from the token logo)
+   ============================================================ */
+
+:root {
+  --tec-lime: #defb48;
+}
+
+/* --- TEC wordmark above the site title (both inside the home link) --- */
+.page-title {
+  font-size: 0.9rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--gray);
+
+  a {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 0.45rem;
+    text-decoration: none;
+  }
+
+  a::before {
+    content: "";
+    height: 38px;
+    width: 215px;
+    max-width: 100%;
+    background: url("https://tecarchive.github.io/tec-archive/static/tec-logo.svg")
+      left center / contain no-repeat;
+  }
+}
+
+/* --- Content headings in TEC teal --- */
+article h1,
+article h2 {
+  color: var(--secondary);
+}
+
+/* --- Lime accent under links on hover --- */
+article a:hover {
+  text-decoration-color: var(--tec-lime);
+  text-decoration-thickness: 2px;
+}
+
+/* --- Blockquotes get a lime edge (used for status / "retired" notes) --- */
+blockquote {
+  border-left: 3px solid var(--tec-lime);
+}
+
+/* --- Explorer: hover accent in brand teal --- */
+.explorer {
+  .folder-title:hover,
+  a.internal:hover {
+    color: var(--secondary);
+  }
+}
